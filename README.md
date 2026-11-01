@@ -20,6 +20,6 @@
 
 ## How to use
 1. Tool ကို Run ကြည့်ပါ။ သင့်ရဲ့ **Device ID** ကို ပြပါလိမ့်မယ်။
-2. အဲ့ဒီ Device ID ကို Admin (Telegram: [@kaungioi](https://t.me/kaungioi)) ဆီ ပို့ပြီး Key ဝယ်ပါ။
+2. အဲ့ဒီ Device ID ကို Admin (Telegram: [@kaungioi](https://t.me/kaungioi)) ဆီ ပို့ပြီး Key ယူပါ။
 3. Admin ပေးတဲ့ Key ကို Tool ထဲမှာ ရိုက်ထည့်ပါ။
 4. နောက်တစ်ခါ Run တိုင်း Key ပြန်ထည့်စရာ မလိုတော့ပါဘူး။ (အလိုအလျောက် မှတ်ထားပါတယ်)
